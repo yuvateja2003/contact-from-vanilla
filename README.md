@@ -2,6 +2,10 @@
 
 This project is a simple, elegant contact form implemented using vanilla HTML, CSS, and JavaScript. It features an Apple-inspired design with smooth animations and a responsive layout.
 
+## Live Demo
+
+You can view the live version of the website here: [Contact Form Vanilla JS](https://contact-form-vanilla.vercel.app)
+
 ## Features
 
 - Clean, minimalist design inspired by Apple's aesthetic
